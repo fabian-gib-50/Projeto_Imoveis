@@ -1,8 +1,10 @@
 ![Dbianbanner](https://user-images.githubusercontent.com/79420053/190932592-b0bf814a-c7da-42e1-9d5f-b5c003263d3e.png)
 
 
-KC HOUSE COMPANY INCORPORADORA E IMOBILIÁRIA
+APRESENTAÇÃO DO PROJETO E OBJETIVO
+   - PROBLEMA DE NEGÓCIO
 
- Temos uma empresa chamada <em>`KC HOUSE COMPANY INCORPORADORA E IMOBILIÁRIA`<em>, que compra e vende imóveis, e a sua maior dificuldade dos "CEOS", é, saber qual o melhor valor de `"COMPRA"`, bem como qual o melhor valor de `"VENDA"`, para os imóveis em seu portfólio de produtos. Preciso encontrar um ponto de equilíbrio entre a compra, venda e consequentemente gerar receitas, com o melhor retorno possível.
- Do ponsto de vista de inteligência de mercado competitiva, eles conseguirão nichar melhor o mercado, indentificando melhor seu cliente PERSONA, perdem menos tempo em compras, vendas, qualificaram melhor as oportunidades de negócios, gastam melhor o dinheiro em campanhas de marketing, serão mais assertivos e não perderão dinheiro nas vendas, aberão compor melhor seus preços.
-  
+      - A empresa chamada <em>`KC HOUSE COMPANY INCORPORADORA E IMOBILIÁRIA`<em>, compra e vende imóveis. A maior dificuldade dos "CEOS", é saber qual o melhor valor de `"COMPRA"`, e qual o melhor valor de `"VENDA"` dos imóveis, em seu portfólio de produtos. Vou encontrar o ponto de equilíbrio entre compra, venda e consequentemente gerar receitas, com o melhor retorno possível (lucratividade mais assertiva).
+      - Lembrando, o objetivo aqui é aplicar modelos de Machine Learning, Inteligência Artificial, para que consigamos prever o melhor valor de venda, com base na tabela de vendas existente, não se trata de precificar, mas sim, com base nos atributos dos imóveis, características, dizer como estão vendendo.
+    
+        - Do ponsto de vista "mercadológico", e inteligência de mercado competitiva, eles conseguirão nichar melhor o mercado, indentificando melhor seu Lead, perdendo menos tempo em compras, vendas, qualificarão melhor as oportunidades de negócios, gastam melhor o dinheiro em campanhas de marketing, sendo  mais assertivos, sem que haja perda de dinheiro nas vendas.
